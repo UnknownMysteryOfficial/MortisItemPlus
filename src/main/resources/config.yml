@@ -1,0 +1,160 @@
+#==============================================================================================================
+#                                               ARMORS:
+#==============================================================================================================
+Shadow_Fighter:
+  #Shadow Fighter Sword:
+  display-name: "&cShadow Sword"
+  lore1: " "
+  lore2: "&6This sword was first"
+  lore3: "&6used by the ancient ones"
+  lore4: "&6that lived deep down in"
+  lore5: "&6the nether."
+  lore6: " "
+  #Shadow Fighter Axe:
+  axe-name: "&cShadow Axe"
+  axe-lore1: "&6This axe was first used"
+  axe-lore2: "&6by the ancient ones that"
+  axe-lore3: "&6lived deep down in nether."
+  #Shadow Fighter Pickaxe:
+  pickaxe-name: "&cShadow Pickaxe"
+  pickaxe-lore1: "&6This pickaxe was first used"
+  pickaxe-lore2: "&6by the ancient ones that"
+  pickaxe-lore3: "&6lived deep down in nether."
+  #Shadow Fighter Shovel:
+  shovel-name: "&cShadow Shovel"
+  shovel-lore1: "&6This shovel was first used"
+  shovel-lore2: "&6by the ancient ones that"
+  shovel-lore3: "&6lived deep down in nether."
+  #Shadow Fighter Hoe:
+  hoe-name: "&cShadow Hoe"
+  hoe-lore1: "&6This hoe was first used"
+  hoe-lore2: "&6by the ancient ones that"
+  hoe-lore3: "&6lived deep down in nether."
+  #Shadow Fighter Helmet:
+  dh-displayname: "&cShadow Fighter Helmet"
+  dh-lore1: "&6Shadow Fighter Helmet"
+  dh-lore2: "&6used by ancient ones during"
+  dh-lore3: "&6war with god of mischief."
+  #Shadow Fighter ChestPlate:
+  dcp-displayname: "&cShadow Fighter Chestplate"
+  dcp-lore1: "&6Shadow Fighter Chestplate"
+  dcp-lore2: "&6used by ancient ones during"
+  dcp-lore3: "&6war with god of mischief."
+  #Shadow Fighter leggings:
+  dl-displayname: "&cShadow Fighter Leggings"
+  dl-lore1: "&6Shadow Fighter Leggings"
+  dl-lore2: "&6used by ancient ones during"
+  dl-lore3: "&6war with god of mischief."
+  #Shadow Fighter Boots:
+  db-displayname: "&cShadow Fighter Boots"
+  db-lore1: "&6Shadow Fighter Boots"
+  db-lore2: "&6used by ancient ones during"
+  db-lore3: "&6war with god of mischief."
+  #Shadow Diamond (Used to craft the Shadow Fighter Set):
+  crafter: "&cShadow Diamond"
+  crafter-lore1: "&6Shadowed Diamond that were used"
+  crafter-lore2: "&6to craft Shadow Fighter Sword in"
+  crafter-lore3: "&6ancient times."
+
+SteelBorn:
+  #SteelBorn Sword:
+  display-name: "&cSteelBorn Sword"
+  lore1: "&6A glorious SteelBorn Sword"
+  lore2: "&6used by the servants of an entity"
+  lore3: "&6that ruled the overworld"
+  lore4: "&6for 2000 years."
+  #SteelBorn  Axe:
+  axe-name: "&cSteelBorn Axe"
+  axe-lore1: "&6A glorious SteelBorn Axe"
+  axe-lore2: "&6used by the servants of an entity"
+  axe-lore3: "&6that ruled the overworld for centuries"
+  #SteelBorn  Pickaxe:
+  pickaxe-name: "&cSteelBorn Pickaxe"
+  pickaxe-lore1: "&6A glorious SteelBorn Pickaxe"
+  pickaxe-lore2: "&6used by the servants of an entity"
+  pickaxe-lore3: "&6that ruled the overworld for centuries"
+  #SteelBorn  Shovel:
+  shovel-name: "&cSteelBorn Shovel"
+  shovel-lore1: "&6A glorious SteelBorn Shovel"
+  shovel-lore2: "&6used by the servants of an entity"
+  shovel-lore3: "&6that ruled the overworld for centuries"
+  #SteelBorn  Hoe:
+  hoe-name: "&cSteelBorn Hoe"
+  hoe-lore1: "&6A glorious SteelBorn Hoe"
+  hoe-lore2: "&6used by the servants of an entity"
+  hoe-lore3: "&6that ruled the overworld for centuries"
+  #SteelBorn  Helmet:
+  dh-displayname: "&cSteelBorn Helmet"
+  dh-lore1: "&6SteelBorn Helmet"
+  dh-lore2: "&6used by entities during"
+  dh-lore3: "&6their ruling eras"
+  #SteelBorn  ChestPlate:
+  dcp-displayname: "&cSteelBorn Chestplate"
+  dcp-lore1: "&6SteelBorn Chestplate"
+  dcp-lore2: "&6used by entities during"
+  dcp-lore3: "&6their ruling eras"
+  #SteelBorn  leggings:
+  dl-displayname: "&cSteelBorn Leggings"
+  dl-lore1: "&6SteelBorn Leggings"
+  dl-lore2: "&6used by entities during"
+  dl-lore3: "&6their ruling eras"
+  #SteelBorn  Boots:
+  db-displayname: "&cSteelBorn Boots"
+  db-lore1: "&6SteelBorn Boots"
+  db-lore2: "&6used by entities during"
+  db-lore3: "&6their ruling eras"
+  #SteelBorn Heart (Used to craft the SteelBorn Set):
+  crafter: "&cSteelBorn Ingot"
+  crafter-lore1: "&6SteelBorn Ingot that were used to"
+  crafter-lore2: "&6craft SteelBorn set in previous"
+  crafter-lore3: "&6ruling eras by entities."
+#==============================================================================================================
+#                                            TALISMANS:
+#==============================================================================================================
+Saturation_Pet:
+  display-name: "&3Zombie Pet"
+  lore1: "&6The zombie pet gives you"
+  lore2: "&6special ability to maintain"
+  lore3: "&6your saturation forever, until"
+  lore4: "&6this is in your inventory."
+Strength_Pet:
+  display-name: "&3Dragon Pet"
+  lore1: "&6The dragon pet gives you"
+  lore2: "&6special ability to gain extra"
+  lore3: "&6strength power forever, until"
+  lore4: "&6this is in your inventory."
+Absorption_Pet:
+  display-name: "&3Wither Skeleton Pet"
+  lore1: "&6The wither skeleton pet gives you"
+  lore2: "&6special ability to absorb incoming"
+  lore3: "&6attack through absorption effect, until"
+  lore4: "&6this is in your inventory."
+Speed_Pet:
+  display-name: "&3Skeleton Pet"
+  lore1: "&6The skeleton pet gives you"
+  lore2: "&6special ability to gain"
+  lore3: "&6extra speed effect, until"
+  lore4: "&6this is in your inventory."
+HealthBoost_Pet:
+  display-name: "&3Creeper Pet"
+  lore1: "&6The creeper pet gives you"
+  lore2: "&6special ability to gain"
+  lore3: "&6health regeneration effect, until"
+  lore4: "&6this is in your inventory."
+#==============================================================================================================
+#                                            ITEMS:
+#==============================================================================================================
+
+Lightning_Bow:
+  display-name: "&1Lightning Bow"
+  lore1: "&6This handmade bow was crafted"
+  lore2: "&6by the God Of Mischief to wipe"
+  lore3: "&6the entities through a deadly"
+  lore4: "&6lightning storm."
+  cooldown: 5 #in seconds
+Teleport_Wand:
+  display-name: "&1Teleportation Wand"
+  lore1: "&6The teleportation wand lets you"
+  lore2: "&6teleport anywhere in a short area"
+  lore3: "&6where you point this wand."
+  cooldown: 2 #in seconds

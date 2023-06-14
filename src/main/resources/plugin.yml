@@ -1,0 +1,7 @@
+name: MortisItemsPlus
+version: '${project.version}'
+main: me.unknownmystery.mortisitemsplus.MortisItemsPlus
+api-version: 1.13
+commands:
+  itemplusreload:
+    description: Reloads the MortisItemPlus plugin.
